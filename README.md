@@ -127,7 +127,7 @@ Browser → CloudFront (HTTPS, 400+ edge locations)
 *AWS CloudFront console showing deployed distribution*
 
 ### 🪣 S3 Bucket Configuration
-![S3 Bucket Files](Screenshots/s3-bucket-files.png)
+![S3 Bucket Files](website/s3-bucket-files.png)
 *Private S3 bucket with index.html and error.html files*
 
 
