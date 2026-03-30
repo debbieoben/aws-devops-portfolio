@@ -111,7 +111,7 @@ Browser → CloudFront (HTTPS, 400+ edge locations)
 ## 📸 Screenshots
 
 ### 🌐 Live Website Homepage
-![Homepage](Screenshots/homepage.png)
+![Homepage](website/homepage.png)
 *Professional portfolio website with purple gradient design and project showcase*
 
 ### 🔴 Custom 404 Error Page
