@@ -143,11 +143,30 @@ website/Screenshots/live-website-homepage.png
    - Custom error page displays
 
 
-7. ## 🏗 Architecture Diagram
+## 📸 Screenshots
 
-![Architecture](website/Screenshots/architecture-diagram.pdf)
+### 🌐 Live Website Homepage
+![Homepage](./screenshots/homepage.png)
+*Professional portfolio website with purple gradient design and project showcase*
 
-See `architecture-diagram.pdf` for detailed visual architecture.  
+### 🔴 Custom 404 Error Page
+![404 Error Page](./screenshots/404-error-page.png)
+*User-friendly custom error page with "Back to Home" button*
+
+### 🔒 HTTPS Security
+![HTTPS Secure](./screenshots/https-secure.png)
+*Browser showing secure HTTPS connection with lock icon*
+
+### ☁️ CloudFront Distribution
+![CloudFront Distribution](./screenshots/cloudfront-distribution.png)
+*AWS CloudFront console showing deployed distribution*
+
+### 🪣 S3 Bucket Configuration
+![S3 Bucket Files](./screenshots/s3-bucket-files.png)
+*Private S3 bucket with index.html and error.html files*
+
+### 🏗️ Architecture Diagram
+[View Full Architecture Diagram (PDF)](./architecture-diagram.pdf)  
 
 ## 🎤 Interview Talking Points
 
