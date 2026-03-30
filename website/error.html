@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Page Not Found</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .error-container {
+            max-width: 600px;
+        }
+        h1 {
+            font-size: 8em;
+            margin: 0;
+            text-shadow: 3px 3px 6px rgba(0,0,0,0.3);
+        }
+        h2 {
+            font-size: 2.5em;
+            margin: 20px 0;
+        }
+        p {
+            font-size: 1.3em;
+            margin-bottom: 40px;
+        }
+        a {
+            display: inline-block;
+            background: white;
+            color: #667eea;
+            padding: 18px 40px;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 1.1em;
+            transition: transform 0.2s;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        a:hover {
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="error-container">
+        <h1>404</h1>
+        <h2>Oops! Page Not Found</h2>
+        <p>The page you're looking for doesn't exist or has been moved.</p>
+        <a href="/">← Back to Home</a>
+    </div>
+</body>
+</html>
+```
+
+5. **Save:** Cmd + S
+
+### **Step 6: Create .gitignore**
+
+1. Right-click in the root folder (`project-01-static-website`)
+2. Select **"New File"**
+3. Name it: `.gitignore`
+4. Add:
+```
+.DS_Store
+*.log
+node_modules/
+.vscode/
+```
+
+5. **Save**
+
+✅ **Your project structure should look like this:**
+```
+project-01-static-website/
+├── website/
+│   ├── index.html
+│   └── error.html
+└── .gitignore

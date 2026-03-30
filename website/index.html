@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debbie Oben - AWS DevOps Engineer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+            color: #333;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            padding: 50px;
+        }
+        header {
+            text-align: center;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 30px;
+            margin-bottom: 40px;
+        }
+        h1 {
+            font-size: 3em;
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        .tagline {
+            font-size: 1.3em;
+            color: #666;
+            font-style: italic;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        h2 {
+            font-size: 2em;
+            color: #667eea;
+            margin-bottom: 20px;
+            border-left: 5px solid #667eea;
+            padding-left: 15px;
+        }
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            margin-top: 25px;
+        }
+        .project-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+        }
+        .project-card h3 {
+            font-size: 1.4em;
+            margin-bottom: 12px;
+        }
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .skill {
+            background: #667eea;
+            color: white;
+            padding: 12px 25px;
+            border-radius: 30px;
+            font-weight: bold;
+            font-size: 1em;
+        }
+        .about-text {
+            font-size: 1.1em;
+            line-height: 1.8;
+            color: #555;
+        }
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            padding-top: 30px;
+            border-top: 2px solid #eee;
+            color: #999;
+        }
+        footer a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .security-badge {
+            background: #27ae60;
+            color: white;
+            padding: 8px 15px;
+            border-radius: 5px;
+            display: inline-block;
+            margin: 5px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚀 Debbie Oben</h1>
+            <p class="tagline">AWS DevOps Engineer | Cloud Infrastructure Specialist</p>
+        </header>
+
+        <div class="section">
+            <h2>About This Website</h2>
+            <p class="about-text">
+                This website is hosted on AWS using enterprise-grade cloud infrastructure. 
+                It demonstrates secure, scalable architecture using S3 for storage and CloudFront 
+                for global content delivery. The entire infrastructure follows AWS best practices 
+                for security and performance.
+            </p>
+            <div style="margin-top: 20px;">
+                <span class="security-badge">🔒 HTTPS Enabled</span>
+                <span class="security-badge">🛡️ Private S3 Bucket</span>
+                <span class="security-badge">🌐 Global CDN</span>
+                <span class="security-badge">⚡ Edge Caching</span>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Featured Projects</h2>
+            <div class="project-grid">
+                <div class="project-card">
+                    <h3>🌐 Secure Static Website</h3>
+                    <p>S3 + CloudFront with Origin Access Identity for secure content delivery</p>
+                </div>
+                <div class="project-card">
+                    <h3>🎮 WebSocket Game</h3>
+                    <p>Real-time multiplayer game with custom VPC and EC2 infrastructure</p>
+                </div>
+                <div class="project-card">
+                    <h3>🔒 Production VPC</h3>
+                    <p>Multi-tier network with public/private subnets and NAT Gateway</p>
+                </div>
+                <div class="project-card">
+                    <h3>📈 Auto-Scaling App</h3>
+                    <p>EC2 + Application Load Balancer with auto-scaling policies</p>
+                </div>
+                <div class="project-card">
+                    <h3>🐳 Containerized App</h3>
+                    <p>Docker containers deployed on ECS Fargate</p>
+                </div>
+                <div class="project-card">
+                    <h3>⚙️ CI/CD Pipeline</h3>
+                    <p>Automated deployment with GitHub Actions and AWS CodeDeploy</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Technical Skills</h2>
+            <div class="skills">
+                <span class="skill">AWS (VPC, EC2, S3, CloudFront)</span>
+                <span class="skill">Docker & Containers</span>
+                <span class="skill">Terraform</span>
+                <span class="skill">CI/CD</span>
+                <span class="skill">Linux Administration</span>
+                <span class="skill">Python & Bash</span>
+                <span class="skill">WebSocket Protocol</span>
+                <span class="skill">Security Best Practices</span>
+            </div>
+        </div>
+
+        <footer>
+            <p><strong>View Source Code:</strong> <a href="https://github.com/debbieoben/aws-devops-portfolio" target="_blank">GitHub Portfolio</a></p>
+            <p style="margin-top: 10px;">Built with AWS • Deployed via CloudFront • 2026</p>
+        </footer>
+    </div>
+</body>
+</html>
