@@ -146,23 +146,23 @@ website/Screenshots/live-website-homepage.png
 ## 📸 Screenshots
 
 ### 🌐 Live Website Homepage
-![Homepage](./screenshots/homepage.png)
+![Homepage](./Screenshots/homepage.png)
 *Professional portfolio website with purple gradient design and project showcase*
 
 ### 🔴 Custom 404 Error Page
-![404 Error Page](./screenshots/404-error-page.png)
+![404 Error Page](./Screenshots/404-error-page.png)
 *User-friendly custom error page with "Back to Home" button*
 
 ### 🔒 HTTPS Security
-![HTTPS Secure](./screenshots/https-secure.png)
+![HTTPS Secure](./Screenshots/https-secure.png)
 *Browser showing secure HTTPS connection with lock icon*
 
 ### ☁️ CloudFront Distribution
-![CloudFront Distribution](./screenshots/cloudfront-distribution.png)
+![CloudFront Distribution](./Screenshots/cloudfront-distribution.png)
 *AWS CloudFront console showing deployed distribution*
 
 ### 🪣 S3 Bucket Configuration
-![S3 Bucket Files](./screenshots/s3-bucket-files.png)
+![S3 Bucket Files](./Screenshots/s3-bucket-files.png)
 *Private S3 bucket with index.html and error.html files*
 
 ### 🏗️ Architecture Diagram
