@@ -110,7 +110,9 @@ Browser → CloudFront (HTTPS, 400+ edge locations)
 
 ## 📸 Screenshots
 
-[Add your screenshots here - see screenshots folder]
+website/Screenshots/live-website-homepage.png
+
+
 
 ## 🚀 Deployment Steps
 
