@@ -123,7 +123,7 @@ Browser → CloudFront (HTTPS, 400+ edge locations)
 *Browser showing secure HTTPS connection with lock icon*
 
 ### ☁️ CloudFront Distribution
-![CloudFront Distribution](Screenshots/cloudfront-distribution.png)
+![CloudFront Distribution](website/cloudfront-distribution.png)
 *AWS CloudFront console showing deployed distribution*
 
 ### 🪣 S3 Bucket Configuration
