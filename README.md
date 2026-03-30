@@ -115,7 +115,7 @@ Browser → CloudFront (HTTPS, 400+ edge locations)
 *Professional portfolio website with purple gradient design and project showcase*
 
 ### 🔴 Custom 404 Error Page
-website/404-error-page.png
+![404 page](website/404-error-page.png)
 *User-friendly custom error page with "Back to Home" button*
 
 ### 🔒 HTTPS Security
