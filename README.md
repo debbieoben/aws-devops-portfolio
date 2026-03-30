@@ -110,8 +110,25 @@ Browser → CloudFront (HTTPS, 400+ edge locations)
 
 ## 📸 Screenshots
 
-website/Screenshots/live-website-homepage.png
+### 🌐 Live Website Homepage
+![Homepage](https://raw.githubusercontent.com/debbieoben/aws-devops-portfolio/main/Screenshots/homepage.png)
+*Professional portfolio website with purple gradient design and project showcase*
 
+### 🔴 Custom 404 Error Page
+![404 Error Page](https://raw.githubusercontent.com/debbieoben/aws-devops-portfolio/main/Screenshots/404-error-page.png)
+*User-friendly custom error page with "Back to Home" button*
+
+### 🔒 HTTPS Security
+![HTTPS Secure](https://raw.githubusercontent.com/debbieoben/aws-devops-portfolio/main/Screenshots/https-secure.png)
+*Browser showing secure HTTPS connection with lock icon*
+
+### ☁️ CloudFront Distribution
+![CloudFront Distribution](https://raw.githubusercontent.com/debbieoben/aws-devops-portfolio/main/Screenshots/cloudfront-distribution.png)
+*AWS CloudFront console showing deployed distribution*
+
+### 🪣 S3 Bucket Configuration
+![S3 Bucket Files](https://raw.githubusercontent.com/debbieoben/aws-devops-portfolio/main/Screenshots/s3-bucket-files.png)
+*Private S3 bucket with index.html and error.html files*
 
 
 ## 🚀 Deployment Steps
@@ -143,27 +160,6 @@ website/Screenshots/live-website-homepage.png
    - Custom error page displays
 
 
-## 📸 Screenshots
-
-### 🌐 Live Website Homepage
-![Homepage](https://raw.githubusercontent.com/debbieoben/aws-devops-portfolio/main/Screenshots/homepage.png)
-*Professional portfolio website with purple gradient design and project showcase*
-
-### 🔴 Custom 404 Error Page
-![404 Error Page](https://raw.githubusercontent.com/debbieoben/aws-devops-portfolio/main/Screenshots/404-error-page.png)
-*User-friendly custom error page with "Back to Home" button*
-
-### 🔒 HTTPS Security
-![HTTPS Secure](https://raw.githubusercontent.com/debbieoben/aws-devops-portfolio/main/Screenshots/https-secure.png)
-*Browser showing secure HTTPS connection with lock icon*
-
-### ☁️ CloudFront Distribution
-![CloudFront Distribution](https://raw.githubusercontent.com/debbieoben/aws-devops-portfolio/main/Screenshots/cloudfront-distribution.png)
-*AWS CloudFront console showing deployed distribution*
-
-### 🪣 S3 Bucket Configuration
-![S3 Bucket Files](https://raw.githubusercontent.com/debbieoben/aws-devops-portfolio/main/Screenshots/s3-bucket-files.png)
-*Private S3 bucket with index.html and error.html files* 
 
 ## 🎤 Interview Talking Points
 
