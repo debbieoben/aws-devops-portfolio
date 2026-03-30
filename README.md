@@ -119,7 +119,7 @@ Browser → CloudFront (HTTPS, 400+ edge locations)
 *User-friendly custom error page with "Back to Home" button*
 
 ### 🔒 HTTPS Security
-![HTTPS Secure](Screenshots/https-secure.png)
+![HTTPS Secure](website/https-secure.png)
 *Browser showing secure HTTPS connection with lock icon*
 
 ### ☁️ CloudFront Distribution
