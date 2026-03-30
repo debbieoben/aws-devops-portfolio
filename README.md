@@ -143,7 +143,7 @@ Browser → CloudFront (HTTPS, 400+ edge locations)
 
 7. ## 🏗 Architecture Diagram
 
-![Architecture](./architecture-diagram.pdf)
+![Architecture](website/Screenshots/architecture-diagram.pdf)
 
 See `architecture-diagram.pdf` for detailed visual architecture.  
 
